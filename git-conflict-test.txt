@@ -1,0 +1,3 @@
+Hi mate!!
+welcome to learn about Github
+This is a test line for Git conflicts:main branch
