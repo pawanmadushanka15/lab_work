@@ -1,0 +1,8 @@
+Hi mate!!
+welcome to learn about Github
+This is a test line for Git conflicts:main branch
+
+Hi mate this is from main branch
+Have added new modifications
+
+hello this is my new line
